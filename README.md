@@ -2,7 +2,7 @@
 
 ### 🧭 Sobre mim
 
-Desenvolvedor Backend em formação, focado em Java e Spring Boot, cursando Análise e Desenvolvimento de Sistemas.  
+Desenvolvedor de Software, focado em Java e Spring Boot, focado em Java e Spring Boot, cursando Análise e Desenvolvimento de Sistemas.  
 Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs REST e tecnologias Cloud, aplicando esse conhecimento na prática por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
 ---
@@ -114,6 +114,16 @@ Sistema web full stack para gestão de assessorias esportivas e personal trainer
 
 ---
 
+#### [Lume Wear](https://lumewear.leofe.com.br)
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+E-commerce de moda desenvolvido com React e TypeScript, com catálogo, busca e filtros, variações de produto, carrinho e fluxo completo de checkout. Interface responsiva, componentização reutilizável e experiência de compra desenvolvida com foco em usabilidade e consistência visual.
+
+[Aplicação online](https://lumewear.leofe.com.br) • [Repositório](https://github.com/leopaulaferreira/lume-wear-studio)
+
+---
+
 #### [Running Insights](https://running.leofe.com.br)
 
 `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Nginx` `Oracle Cloud`
@@ -122,13 +132,3 @@ Sistema web full stack para gerenciamento e análise de treinos de corrida, dese
 
 [Aplicação online](https://running.leofe.com.br) • [Backend](https://github.com/leonfreecod/running-insights-api) • [Frontend](https://github.com/leonfreecod/running-insights-web)
 
----
-
-
-#### [API de Usuários](https://leofe.com.br)
-
-`Java` `Spring Boot` `MySQL` `Docker` `Nginx` `Oracle Cloud`
-
-Aplicação web para cadastro e gerenciamento de usuários, com API REST, persistência em banco de dados, interface integrada e publicação em ambiente cloud com domínio próprio e HTTPS.
-
-[Aplicação online](https://leofe.com.br) • [Repositório](https://github.com/leonfreecod/usuarios-api)
