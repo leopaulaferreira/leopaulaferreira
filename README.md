@@ -2,8 +2,8 @@
 
 ### 🧭 Sobre mim
 
-Desenvolvedor de Software, focado em Java e Spring Boot, focado em Java e Spring Boot, cursando Análise e Desenvolvimento de Sistemas.  
-Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs REST e tecnologias Cloud, aplicando esse conhecimento na prática por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
+Desenvolvedor de Software com foco em Java e Spring Boot. Atualmente curso Análise e Desenvolvimento de Sistemas.  
+Tenho interesse em Arquitetura de Sistemas, Linux, Infraestrutura, APIs REST e tecnologias Cloud, aplicando esse conhecimento na prática por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
 ---
 
