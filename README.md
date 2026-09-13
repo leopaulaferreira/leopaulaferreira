@@ -2,9 +2,11 @@
 
 ### 🧭 Sobre mim
 
-Full Stack Developer | React · TypeScript · Java · Spring Boot
+#### Full Stack Developer | React · TypeScript · Java · Spring Boot
 
-Desenvolvedor Full Stack com experiência prática na construção de aplicações web, do frontend ao backend e deploy em produção na Oracle Cloud. Atualmente curso Análise e Desenvolvimento de Sistemas e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
+Desenvolvedor Full Stack com experiência prática na construção de aplicações web, do frontend ao backend e deploy em produção na Oracle Cloud. 
+
+Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
 ---
 
