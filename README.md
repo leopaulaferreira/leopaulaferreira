@@ -6,7 +6,7 @@ Desenvolvedor Full Stack com experiência prática na construção de aplicaçõ
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
-🌐 Portfólio: leofe.com.br
+🌐 Portfólio: [leofe.com.br](https://leofe.com.br)
 
 ---
 
@@ -22,8 +22,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
   </a>
   <a href="https://github.com/leonfreecod">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-   </a>
+     </a>
   <a href="https://www.instagram.com/leoferreirarun">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
