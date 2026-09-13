@@ -20,7 +20,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
   <a href="https://www.linkedin.com/in/leonardodepaulaferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/leonfreecod">
+  <a href="https://github.com/leopaulaferreira">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
      </a>
   <a href="https://www.instagram.com/leoferreirarun">
