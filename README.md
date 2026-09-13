@@ -2,8 +2,9 @@
 
 ### 🧭 Sobre mim
 
-Desenvolvedor de Software com foco em Java e Spring Boot. Atualmente curso Análise e Desenvolvimento de Sistemas.  
-Tenho interesse em Arquitetura de Sistemas, Linux, Infraestrutura, APIs REST e tecnologias Cloud, aplicando esse conhecimento na prática por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
+Full Stack Developer | React · TypeScript · Java · Spring Boot
+
+Desenvolvedor Full Stack com experiência prática na construção de aplicações web, do frontend ao backend e deploy em produção na Oracle Cloud. Atualmente curso Análise e Desenvolvimento de Sistemas e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
 ---
 
