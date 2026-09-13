@@ -2,17 +2,17 @@
 
 ### 🧭 Sobre mim
 
-#### Full Stack Developer | React · TypeScript · Java · Spring Boot
-
 Desenvolvedor Full Stack com experiência prática na construção de aplicações web, do frontend ao backend e deploy em produção na Oracle Cloud. 
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
+
+🌐 Portfólio: leofe.com.br
 
 ---
 
 📍 São Paulo - Brasil  
 🎓 USCS - Universidade Municipal de São Caetano do Sul  
-⚙️ Stack Principal: **Java • Spring Boot • PostgreSQL • MySQL • Docker**  
+⚙️ Stack Principal: Java • Spring Boot • React • TypeScript • PostgreSQL • Docker  
 
 ### 📫 Contato
 
@@ -34,18 +34,18 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
 ### 💻 Tecnologias e Ferramentas 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,js,docker,linux,git,github,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,js,docker,linux,git,github,maven," />
 </p>
 
 ---
 
 ### 🟢 Status Atual
 
-💼 Buscando oportunidade: Desenvolvedor Backend Java Júnior
+💼 Buscando oportunidade: Desenvolvedor de Software 
 
-📚 Estudando no momento: Spring Security • Docker • Linux • Arquitetura de Software
+📚 Estudando no momento: Spring Security • Docker • Linux • Arquitetura de Software • Node.js
 
-🎯 Meta: evoluir para Engenharia de Software, Cloud e Arquitetura Back-end
+🎯 Meta: evoluir como desenvolvedor, aplicando princípios de engenharia de software para construir sistemas escaláveis e bem arquitetados, sem perder de vista o usuário final
 
 ---
 
@@ -58,17 +58,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   </p>
 
-### ☁️ Infraestrutura / DevOps
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### ⚛️ Front-end (já utilizado em projetos)
+### ⚛️ Front-end 
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -80,6 +70,18 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+### ☁️ Infraestrutura / DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+
+
 ### 🗄️ Banco de Dados
 
 <p align="left">
@@ -87,20 +89,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/H2_Database-1565C0?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis_(em_breve)-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-### 📚 Estudando atualmente
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arquitetura_de_Software-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
