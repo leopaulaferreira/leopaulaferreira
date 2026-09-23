@@ -1,12 +1,12 @@
-## 👋 Leonardo Ferreira
+## Leonardo Ferreira
 
-### 🧭 Sobre mim
+### Sobre mim
 
 Desenvolvedor de Software com experiência prática no desenvolvimento de aplicações web e na administração de servidores Linux em produção.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
-🌐 Portfólio: [leofe.com.br](https://leofe.com.br)
+Portfólio: [leofe.com.br](https://leofe.com.br)
 
 ---
 
@@ -35,16 +35,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,js,docker,linux,git,github,maven," />
 </p>
-
----
-
-### 🟢 Status Atual
-
-💼 Buscando oportunidade: Desenvolvedor de Software 
-
-📚 Estudando no momento: Spring Security • Docker • Linux • Arquitetura de Software • Node.js
-
-🎯 Meta: evoluir como desenvolvedor, aplicando princípios de engenharia de software para construir sistemas escaláveis e bem arquitetados, sem perder de vista o usuário final
 
 ---
 
