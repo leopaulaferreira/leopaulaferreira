@@ -2,13 +2,17 @@
 
 ### Sobre mim
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na USCS e aprofundo meus conhecimentos em Arquitetura de Sistemas, Linux e Cloud por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
+### Sobre mim
 
-Tenho interesse em desenvolvimento de software, backend, frontend, bancos de dados, APIs, arquitetura de sistemas e infraestrutura.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na USCS**, com foco em **desenvolvimento de software, backend, APIs, bancos de dados, Linux, Cloud e arquitetura de sistemas**.
 
-Estou aberto a oportunidades de estágio ou vagas júnior em desenvolvimento de Software, onde possa colocar meus conhecimentos na prática e continuar evoluindo junto a um time.
+Desenvolvo projetos práticos para aprofundar meus conhecimentos em **Java, Spring Boot, React, TypeScript, PostgreSQL, Docker, Git, Linux e CI/CD**, além de manter um laboratório pessoal voltado a **Engenharia de Software e infraestrutura**.
 
-Portfólio: leofe.com.br
+Tenho interesse especial em **backend, engenharia de dados, Cloud e construção de sistemas escaláveis**, buscando aplicar boas práticas de desenvolvimento, arquitetura e automação.
+
+Atualmente, busco oportunidades de **estágio ou posição júnior em Tecnologia**, onde possa contribuir com projetos reais e continuar evoluindo tecnicamente junto a uma equipe.
+
+🌐 **Portfólio:** leofe.com.br
 
 ----
 
