@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leonardo Ferreira
+# Leonardo de Paula Ferreira
 
 ### `Software Developer · Data Engineering • Cloud`
 
