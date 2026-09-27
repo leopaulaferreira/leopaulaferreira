@@ -2,8 +2,6 @@
 
 ### Sobre mim
 
-### Sobre mim
-
 Sou estudante de **Análise e Desenvolvimento de Sistemas na USCS**, com foco em **desenvolvimento de software, backend, APIs, bancos de dados, Linux, Cloud e arquitetura de sistemas**.
 
 Desenvolvo projetos práticos para aprofundar meus conhecimentos em **Java, Spring Boot, React, TypeScript, PostgreSQL, Docker, Git, Linux e CI/CD**, além de manter um laboratório pessoal voltado a **Engenharia de Software e infraestrutura**.
